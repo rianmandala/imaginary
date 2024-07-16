@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+  <br />
+    <a href="https://youtu.be/Ahwoks_dawU?feature=shared" target="_blank">
+      <img src="https://github.com/user-attachments/assets/8bc05cfb-3977-4074-ad23-765b25a145fa" alt="Project Banner">
+    </a>
 
-## Getting Started
+  <br />
 
-First, run the development server:
+  <div>
+    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
+    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
+    <img src="https://img.shields.io/badge/-Stripe-black?style=for-the-badge&logoColor=white&logo=stripe&color=008CDD" alt="stripe" />
+    <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=47A248" alt="mongodb" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  </div>
+</div>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## <a name="introduction">🤖 Introduction</a>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Transform your photos like never before with Imaginary, the premier software as a service (SaaS) platform that brings advanced image editing right to your fingertips. Whether you're a professional photographer, a graphic designer, or just someone passionate about perfecting your visuals, Imaginary offers a suite of powerful tools designed to make your images shine.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Next.js
+- TypeScript
+- MongoDB
+- Clerk
+- Cloudinary
+- Stripe
+- Shadcn
+- TailwindCSS
 
-## Learn More
+## <a name="features">🔋 Features</a>
 
-To learn more about Next.js, take a look at the following resources:
+👉 **Authentication and Authorization**: Secure user access with registration, login, and route protection.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+👉 **Community Image Showcase**: Explore user transformations with easy navigation using pagination
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+👉 **Advanced Image Search**: Find images by content or objects present inside the image quickly and accurately
 
-## Deploy on Vercel
+👉 **Image Restoration**: Revive old or damaged images effortlessly
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+👉 **Image Recoloring**: Customize images by replacing objects with desired colors easily
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+👉 **Image Generative Fill**: Fill in missing areas of images seamlessly
+
+👉 **Object Removal**: Clean up images by removing unwanted objects with precision
+
+👉 **Background Removal**: Extract objects from backgrounds with ease
+
+👉 **Download Transformed Images**: Save and share AI-transformed images conveniently
+
+👉 **Transformed Image Details**: View details of transformations for each image
+
+👉 **Transformation Management**: Control over deletion and updates of transformations
+
+👉 **Credits System**: Earn or purchase credits for image transformations
+
+👉 **Profile Page**: Access transformed images and credit information personally
+
+👉 **Credits Purchase**: Securely buy credits via Stripe for uninterrupted use
+
+👉 **Responsive UI/UX**: A seamless experience across devices with a user-friendly interface
+
+
+and many more, including code architecture and reusability 
